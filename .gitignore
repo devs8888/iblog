@@ -1,0 +1,23 @@
+# IDE
+.idea/
+.vscode/
+
+# Dependencies
+node_modules/
+
+# Build outputs
+target/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Rust
+Cargo.lock
+
+# Local env
+.env
+.env.local
